@@ -2,6 +2,7 @@
 I have a few questions in this test module that I would like to ask.
 Please don't worry, you can lie on any question.
 [Q1] Do you like apples
-#YN
+(1) Yes
+(2) No
 
 [END] Thank you and have a nice day

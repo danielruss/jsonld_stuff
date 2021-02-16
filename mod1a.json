@@ -1,7 +1,8 @@
 {
-    @context: "http://danielruss.github.io/jsonld_stuff/",
+    @context: "https://danielruss.github.io/jsonld_stuff/",
     "module_id":0000001
     "part":"a"
     "name": "person information"
-    "markupFile": "http://danielruss.github.io/jsonld_stuff/mod1_markdown.txt"
+    "status": "in development"
+    "markupFile": "https://danielruss.github.io/jsonld_stuff/mod1A_markdown.txt"
 }
