@@ -1,0 +1,10 @@
+{
+    @context: "http://danielruss.github.io/jsonld_stuff/",
+    "module_id":0000001
+    "name": "background information"
+    "parts": [
+	"http://danielruss.github.io/jsonld_stuff/mod1a.json",
+	"http://danielruss.github.io/jsonld_stuff/mod2a.json",
+	"http://danielruss.github.io/jsonld_stuff/mod3a.json",
+	]
+}

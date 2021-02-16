@@ -1,0 +1,7 @@
+[INTRO] Hello and Welcome
+I have a few questions in this test module that I would like to ask.
+Please don't worry, you can lie on any question.
+[Q1] Do you like apples
+#YN
+
+[END] Thank you and have a nice day
